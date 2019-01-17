@@ -1,0 +1,19 @@
+{
+  "name": "dev-chatbot",
+  "version": "1.0.0",
+  "description": "This is a project under WTM-Mentorship to learn about and develop a messenger chatbot in nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afreen23/dev-chatbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afreen23/dev-chatbot/issues"
+  },
+  "homepage": "https://github.com/afreen23/dev-chatbot#readme"
+}
